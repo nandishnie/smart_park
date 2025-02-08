@@ -1,6 +1,6 @@
 # smart_park
 
 # Student Details 
-Name : Nandish
-  USN: 
-  Branch : Mechanical
+## Name : Nandisha MN
+ ## USN: 4NI21ME085
+ ## Branch : Mechanical
